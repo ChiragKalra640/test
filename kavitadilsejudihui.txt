@@ -1,2 +1,7 @@
 ek din khushi aygi
-aaj mai git and github seekh rha hu sheriyan coding schhol se video name(Master git and github in onne video :learn fundamentals) date :- 9/july/2023
+aaj mai GIT  and GITHUB seekh rha hu SHERYIANS CODING SCHOOL se video name(Master git and github in onne video :learn fundamentals) date :- 9/july/2023
+AB HUM SIKH RHE HAI BAHUT KUCH NAYA JAISE : 
+new repository = new folder
+commit = save 
+fork = complete copy
+github issue = complaint
