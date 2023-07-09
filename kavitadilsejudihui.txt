@@ -5,4 +5,9 @@ new repository = new folder
 commit = save 
 fork = complete copy
 github issue = complaint
-ha bhai maza bahut aa rha hai maine just abhi abhi pull request and code merge krna sikha hai , bahut cool and badiya hai . isse phle maine brancing krna sikha tha 
+ha bhai maza bahut aa rha hai maine just abhi abhi pull request and code merge krna sikha hai , bahut cool and badiya hai .
+isse phle maine branching krna sikha tha .
+yrr ye sab bahut zyada awesome hai
+ab mai vapis se is code ki PR raise krunga and then main me jakr isko merge kr dunga
+main code me 
+
